@@ -1,10 +1,79 @@
 {
-  "produtos": [
-    {
-      "id": 1,
-      "nome": "sapatoBacana",
-      "preco": "typicode",
-      "imagem": "sapado.jpg"
-    }
+  "series": [
+      {
+          "id": 1,
+          "nome": "Breaking Bad - A Química do Mal",
+          "temporadas": 5,
+          "elenco": [
+              "Bryan Cranston - Walter White",
+              "Aaron Paul -Jesse Pinkman",
+              "Anna Gunn - Skyler White",
+              "Dean Norris - Hank Schrader",
+              "Rj Mittie - Walter White Jr.",
+              "Bob Odenkirk - Saul Goodman"
+          ],
+          "produtora": "Sony Pictures Television",
+          "ano_lancamento": 2008
+      },
+      {
+          "id": 2,
+          "nome": "Família Soprano",
+          "temporadas": 6,
+          "elenco": [
+              "James Gandolfini - Tony Soprano",
+              "Jamie-Lynn Sigler - Meadow Soprano",
+              "Drea de Matteo - Adriana La Cerva",
+              "Michael Imperioli - Christopher Moltisanti",
+              "Lorraine Bracco - Jennifer Melfi",
+              "Steven Van Zandt - Silvio Dante"
+          ],
+          "produtora": "HBO, Chase Films e Brad Grey Television",
+          "ano_lancamento": 1999
+      },
+      {
+          "id": 3,
+          "nome": "Peaky Blinders",
+          "temporadas": 6,
+          "elenco": [
+              "Cillian Murphy - Tommy Shelby",
+              "Paul Anderson - Arthur Shelby",
+              "Tom Hardy - Alfie Solomons",
+              "Helen McCrory - Polly Gray",
+              "Sophie Rundle - Ada Shelby",
+              "Finn Cole - Michael Gray"
+          ],
+          "produtora": "Caryn Mandabach Productions (CMP)",
+          "ano_lancamento": 2013
+      },
+      {
+          "id": 4,
+          "nome": "Demolidor",
+          "temporadas": 3,
+          "elenco": [
+              "Charlie Cox - Demolidor",
+              "Deborah Ann Woll - Karen Page",
+              "Vincent D'Onofrio - Rei do Crime",
+              "Elden Henson - Foggy Nelson",
+              "Jon Benthal - Justiceiro",
+              "Élodie Yung - Elektra Natchios"
+          ],
+          "produtora": " Marvel Studios",
+          "ano_lancamento": 2015
+      },
+      {
+          "id": 5,
+          "nome": "O Justiceiro",
+          "temporadas": 2,
+          "elenco": [
+              "Jon Bernthal - Justiceiro",
+              "Ben Barnes - Retalho",
+              "Amber Rose Revah - Dinah Madani",
+              "Giorgia Whigham - Amy Bendix",
+              "Jason R. Moore - Curtis Hoyle",
+              "Floriana Lima - Krista Dumont"
+          ],
+          "produtora": "Marvel Studios",
+          "ano_lancamento": 2017
+      }
   ]
 }
